@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="flat-musical" format="2">
+  <advance width="1024"/>
+  <unicode hex="266D"/>
+  <note>
+uni266D
+</note>
+  <outline>
+    <contour>
+      <point x="391" y="-98" type="curve" smooth="yes"/>
+      <point x="426" y="-98"/>
+      <point x="483" y="-62"/>
+      <point x="560" y="10" type="curve" smooth="yes"/>
+      <point x="666" y="109"/>
+      <point x="719" y="204"/>
+      <point x="719" y="296" type="curve" smooth="yes"/>
+      <point x="719" y="327"/>
+      <point x="707" y="355"/>
+      <point x="681" y="379" type="curve" smooth="yes"/>
+      <point x="655" y="403"/>
+      <point x="623" y="415"/>
+      <point x="583" y="415" type="curve" smooth="yes"/>
+      <point x="531" y="415"/>
+      <point x="480" y="390"/>
+      <point x="428" y="338" type="curve"/>
+      <point x="428" y="773" type="line" smooth="yes"/>
+      <point x="428" y="801"/>
+      <point x="417" y="815"/>
+      <point x="393" y="815" type="curve" smooth="yes"/>
+      <point x="370" y="815"/>
+      <point x="358" y="801"/>
+      <point x="358" y="773" type="curve" smooth="yes"/>
+      <point x="358" y="-59" type="line" smooth="yes"/>
+      <point x="358" y="-84"/>
+      <point x="369" y="-97"/>
+    </contour>
+    <contour>
+      <point x="444" y="-18" type="curve" smooth="yes"/>
+      <point x="436" y="-26"/>
+      <point x="428" y="-22"/>
+      <point x="428" y="-11" type="curve" smooth="yes"/>
+      <point x="428" y="271" type="line"/>
+      <point x="471" y="327"/>
+      <point x="513" y="355"/>
+      <point x="554" y="355" type="curve" smooth="yes"/>
+      <point x="600" y="355"/>
+      <point x="622" y="325"/>
+      <point x="622" y="265" type="curve" smooth="yes"/>
+      <point x="622" y="180"/>
+      <point x="562" y="86"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-09 05:32:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

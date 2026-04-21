@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m-bopomofo" format="2">
+  <advance width="1024"/>
+  <unicode hex="3107"/>
+  <note>
+cid01651
+</note>
+  <outline>
+    <contour>
+      <point x="181" y="-47" type="curve" smooth="yes"/>
+      <point x="211" y="-47"/>
+      <point x="227" y="-26"/>
+      <point x="227" y="9" type="curve" smooth="yes"/>
+      <point x="227" y="607" type="line" smooth="yes"/>
+      <point x="227" y="626"/>
+      <point x="238" y="637"/>
+      <point x="257" y="637" type="curve" smooth="yes"/>
+      <point x="745" y="637" type="line" smooth="yes"/>
+      <point x="764" y="637"/>
+      <point x="775" y="626"/>
+      <point x="775" y="607" type="curve" smooth="yes"/>
+      <point x="775" y="9" type="line" smooth="yes"/>
+      <point x="775" y="-26"/>
+      <point x="792" y="-47"/>
+      <point x="824" y="-47" type="curve" smooth="yes"/>
+      <point x="855" y="-47"/>
+      <point x="872" y="-27"/>
+      <point x="872" y="9" type="curve" smooth="yes"/>
+      <point x="872" y="644" type="line" smooth="yes"/>
+      <point x="872" y="696"/>
+      <point x="844" y="724"/>
+      <point x="792" y="724" type="curve" smooth="yes"/>
+      <point x="215" y="724" type="line" smooth="yes"/>
+      <point x="163" y="724"/>
+      <point x="135" y="696"/>
+      <point x="135" y="644" type="curve" smooth="yes"/>
+      <point x="135" y="9" type="line" smooth="yes"/>
+      <point x="135" y="-27"/>
+      <point x="151" y="-47"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-09 05:31:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

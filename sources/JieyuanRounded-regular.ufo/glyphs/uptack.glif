@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uptack" format="2">
+  <advance width="1024"/>
+  <unicode hex="22A5"/>
+  <note>
+uni22A5
+</note>
+  <outline>
+    <contour>
+      <point x="201" y="42" type="curve" smooth="yes"/>
+      <point x="821" y="42" type="line" smooth="yes"/>
+      <point x="850" y="42"/>
+      <point x="865" y="54"/>
+      <point x="865" y="77" type="curve" smooth="yes"/>
+      <point x="865" y="101"/>
+      <point x="850" y="112"/>
+      <point x="821" y="112" type="curve" smooth="yes"/>
+      <point x="547" y="112" type="line"/>
+      <point x="547" y="668" type="line" smooth="yes"/>
+      <point x="547" y="696"/>
+      <point x="535" y="711"/>
+      <point x="512" y="711" type="curve" smooth="yes"/>
+      <point x="488" y="711"/>
+      <point x="477" y="696"/>
+      <point x="477" y="668" type="curve" smooth="yes"/>
+      <point x="477" y="112" type="line"/>
+      <point x="201" y="112" type="line" smooth="yes"/>
+      <point x="173" y="112"/>
+      <point x="159" y="101"/>
+      <point x="159" y="77" type="curve" smooth="yes"/>
+      <point x="159" y="54"/>
+      <point x="173" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-09 05:32:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>880</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>[Kosugi Maru]
+Copyright (c) 2010 MOTOYA CO.,LTD.            
+
+[Varela Round]
+Copyright (x) 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.            
+
+[jf open huninn]
+Copyright (c) 2020-2023 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).</string>
+    <key>descender</key>
+    <integer>-120</integer>
+    <key>familyName</key>
+    <string>Jieyuan Rounded</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>60</integer>
+        <key>y</key>
+        <integer>812</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>60</integer>
+        <key>y</key>
+        <integer>-94</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>270</integer>
+        <key>x</key>
+        <integer>60</integer>
+        <key>y</key>
+        <integer>871</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>270</integer>
+        <key>x</key>
+        <integer>965</integer>
+        <key>y</key>
+        <integer>812</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>180</integer>
+        <key>x</key>
+        <integer>965</integer>
+        <key>y</key>
+        <integer>-84</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>180</integer>
+        <key>x</key>
+        <integer>965</integer>
+        <key>y</key>
+        <integer>782</integer>
+      </dict>
+    </array>
+    <key>openTypeHeadCreated</key>
+    <string>2026/04/21 08:30:50</string>
+    <key>openTypeHheaAscender</key>
+    <integer>871</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-153</integer>
+    <key>openTypeNameDesigner</key>
+    <string>[Kosugi Maru]
+Designed by MOTOYA      
+
+[Varela Round]
+Joe Prince (Latin component); Avraham Cornfeld (Hebrew component)     
+
+[jf open huninn]
+Chiaki.C, Bold, GoRong, Rose, Yunshan, ChingRu (Chinese Characters); GoRong (Diacritics); Chiaki.C, Bold (Bopomofo); Michael, ChingRu (Programming);</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Jieyuan Project</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://github.com/akira02/jieyuan-rounded-font</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>408</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>38</integer>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>871</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-153</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>5</integer>
+      <integer>6</integer>
+      <integer>7</integer>
+      <integer>9</integer>
+      <integer>31</integer>
+      <integer>33</integer>
+      <integer>35</integer>
+      <integer>36</integer>
+      <integer>37</integer>
+      <integer>38</integer>
+      <integer>42</integer>
+      <integer>43</integer>
+      <integer>44</integer>
+      <integer>45</integer>
+      <integer>46</integer>
+      <integer>54</integer>
+      <integer>55</integer>
+      <integer>59</integer>
+      <integer>60</integer>
+      <integer>61</integer>
+      <integer>65</integer>
+      <integer>66</integer>
+      <integer>68</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>JYPR</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1000</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>300</integer>
+    <key>postscriptFontName</key>
+    <string>jieyuan-rounded-regular</string>
+    <key>postscriptFullName</key>
+    <string>Jieyuan Rounded</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1024</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>512</integer>
+  </dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Two-roman" format="2">
+  <advance width="1024"/>
+  <unicode hex="2161"/>
+  <note>
+uni2161
+</note>
+  <outline>
+    <contour>
+      <point x="646" y="-5" type="curve" smooth="yes"/>
+      <point x="671" y="-5"/>
+      <point x="693" y="16"/>
+      <point x="693" y="41" type="curve" smooth="yes"/>
+      <point x="693" y="658" type="line" smooth="yes"/>
+      <point x="693" y="683"/>
+      <point x="671" y="705"/>
+      <point x="646" y="705" type="curve" smooth="yes"/>
+      <point x="621" y="705"/>
+      <point x="600" y="683"/>
+      <point x="600" y="658" type="curve" smooth="yes"/>
+      <point x="600" y="41" type="line" smooth="yes"/>
+      <point x="600" y="16"/>
+      <point x="621" y="-5"/>
+    </contour>
+    <contour>
+      <point x="361" y="-5" type="curve" smooth="yes"/>
+      <point x="386" y="-5"/>
+      <point x="408" y="16"/>
+      <point x="408" y="41" type="curve" smooth="yes"/>
+      <point x="408" y="658" type="line" smooth="yes"/>
+      <point x="408" y="683"/>
+      <point x="386" y="705"/>
+      <point x="361" y="705" type="curve" smooth="yes"/>
+      <point x="336" y="705"/>
+      <point x="315" y="683"/>
+      <point x="315" y="658" type="curve" smooth="yes"/>
+      <point x="315" y="41" type="line" smooth="yes"/>
+      <point x="315" y="16"/>
+      <point x="336" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-12 10:56:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

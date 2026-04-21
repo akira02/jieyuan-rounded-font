@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="763"/>
+  <unicode hex="01AF"/>
+  <note>
+Uhorn
+</note>
+  <anchor x="789" y="556" name="odot"/>
+  <anchor x="379" y="693" name="top"/>
+  <outline>
+    <contour>
+      <point x="379" y="-11" type="curve" smooth="yes"/>
+      <point x="474" y="-11"/>
+      <point x="569" y="29"/>
+      <point x="625" y="111" type="curve" smooth="yes"/>
+      <point x="653" y="153"/>
+      <point x="667" y="204"/>
+      <point x="667" y="262" type="curve" smooth="yes"/>
+      <point x="667" y="625" type="line"/>
+      <point x="678" y="625" type="line" smooth="yes"/>
+      <point x="770" y="625"/>
+      <point x="820" y="681"/>
+      <point x="820" y="753" type="curve" smooth="yes"/>
+      <point x="820" y="817"/>
+      <point x="801" y="854"/>
+      <point x="769" y="854" type="curve" smooth="yes"/>
+      <point x="750" y="854"/>
+      <point x="735" y="839"/>
+      <point x="735" y="820" type="curve" smooth="yes"/>
+      <point x="735" y="814"/>
+      <point x="736" y="807"/>
+      <point x="738" y="799" type="curve" smooth="yes"/>
+      <point x="741" y="788"/>
+      <point x="742" y="779"/>
+      <point x="742" y="769" type="curve" smooth="yes"/>
+      <point x="742" y="723"/>
+      <point x="718" y="699"/>
+      <point x="676" y="699" type="curve" smooth="yes"/>
+      <point x="664" y="699"/>
+      <point x="654" y="700"/>
+      <point x="645" y="702" type="curve"/>
+      <point x="642" y="702"/>
+      <point x="639" y="703"/>
+      <point x="637" y="703" type="curve" smooth="yes"/>
+      <point x="630" y="703"/>
+      <point x="624" y="704"/>
+      <point x="620" y="704" type="curve" smooth="yes"/>
+      <point x="594" y="704"/>
+      <point x="574" y="682"/>
+      <point x="574" y="657" type="curve" smooth="yes"/>
+      <point x="574" y="259" type="line" smooth="yes"/>
+      <point x="574" y="183"/>
+      <point x="538" y="124"/>
+      <point x="475" y="95" type="curve" smooth="yes"/>
+      <point x="445" y="81"/>
+      <point x="414" y="74"/>
+      <point x="379" y="74" type="curve" smooth="yes"/>
+      <point x="311" y="74"/>
+      <point x="248" y="102"/>
+      <point x="212" y="158" type="curve" smooth="yes"/>
+      <point x="194" y="184"/>
+      <point x="184" y="218"/>
+      <point x="184" y="259" type="curve" smooth="yes"/>
+      <point x="184" y="657" type="line" smooth="yes"/>
+      <point x="184" y="682"/>
+      <point x="162" y="704"/>
+      <point x="137" y="704" type="curve" smooth="yes"/>
+      <point x="111" y="704"/>
+      <point x="91" y="682"/>
+      <point x="91" y="657" type="curve" smooth="yes"/>
+      <point x="91" y="262" type="line" smooth="yes"/>
+      <point x="91" y="143"/>
+      <point x="153" y="59"/>
+      <point x="242" y="19" type="curve" smooth="yes"/>
+      <point x="285" y="-1"/>
+      <point x="331" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-09 05:31:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

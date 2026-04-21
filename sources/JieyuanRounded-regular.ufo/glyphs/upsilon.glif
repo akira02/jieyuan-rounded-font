@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="599"/>
+  <unicode hex="03C5"/>
+  <note>
+upsilon
+</note>
+  <outline>
+    <contour>
+      <point x="300" y="-11" type="curve" smooth="yes"/>
+      <point x="434" y="-11"/>
+      <point x="526" y="70"/>
+      <point x="526" y="199" type="curve" smooth="yes"/>
+      <point x="526" y="470" type="line" smooth="yes"/>
+      <point x="526" y="495"/>
+      <point x="504" y="516"/>
+      <point x="479" y="516" type="curve" smooth="yes"/>
+      <point x="454" y="516"/>
+      <point x="433" y="495"/>
+      <point x="433" y="470" type="curve" smooth="yes"/>
+      <point x="433" y="199" type="line" smooth="yes"/>
+      <point x="433" y="123"/>
+      <point x="380" y="76"/>
+      <point x="300" y="76" type="curve" smooth="yes"/>
+      <point x="220" y="76"/>
+      <point x="166" y="123"/>
+      <point x="166" y="199" type="curve" smooth="yes"/>
+      <point x="166" y="470" type="line" smooth="yes"/>
+      <point x="166" y="495"/>
+      <point x="145" y="516"/>
+      <point x="120" y="516" type="curve" smooth="yes"/>
+      <point x="95" y="516"/>
+      <point x="73" y="495"/>
+      <point x="73" y="470" type="curve" smooth="yes"/>
+      <point x="73" y="199" type="line" smooth="yes"/>
+      <point x="73" y="71"/>
+      <point x="166" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-12 10:56:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

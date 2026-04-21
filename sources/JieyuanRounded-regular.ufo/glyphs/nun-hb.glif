@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nun-hb" format="2">
+  <advance width="352"/>
+  <unicode hex="05E0"/>
+  <note>
+uni05E0
+</note>
+  <outline>
+    <contour>
+      <point x="57" y="-1" type="curve" smooth="yes"/>
+      <point x="103" y="-1" type="line" smooth="yes"/>
+      <point x="187" y="-1"/>
+      <point x="234" y="24"/>
+      <point x="256" y="84" type="curve" smooth="yes"/>
+      <point x="267" y="113"/>
+      <point x="272" y="153"/>
+      <point x="272" y="203" type="curve" smooth="yes"/>
+      <point x="272" y="537" type="line" smooth="yes"/>
+      <point x="272" y="568"/>
+      <point x="245" y="591"/>
+      <point x="211" y="591" type="curve" smooth="yes"/>
+      <point x="105" y="591" type="line" smooth="yes"/>
+      <point x="81" y="591"/>
+      <point x="61" y="574"/>
+      <point x="61" y="550" type="curve" smooth="yes"/>
+      <point x="61" y="526"/>
+      <point x="81" y="509"/>
+      <point x="105" y="509" type="curve" smooth="yes"/>
+      <point x="159" y="509" type="line" smooth="yes"/>
+      <point x="172" y="509"/>
+      <point x="179" y="502"/>
+      <point x="179" y="489" type="curve" smooth="yes"/>
+      <point x="179" y="203" type="line" smooth="yes"/>
+      <point x="179" y="113"/>
+      <point x="158" y="81"/>
+      <point x="103" y="81" type="curve" smooth="yes"/>
+      <point x="57" y="81" type="line" smooth="yes"/>
+      <point x="33" y="81"/>
+      <point x="13" y="64"/>
+      <point x="13" y="40" type="curve" smooth="yes"/>
+      <point x="13" y="16"/>
+      <point x="33" y="-1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-09 05:32:01 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

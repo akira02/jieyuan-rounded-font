@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors
+.idea/
+.vscode/
+
+# Font editor / design app temp files
+*.glyphs.autosave
+*.glyphspackage/
+
+# Build artifacts
+build/
+dist/
+out/
