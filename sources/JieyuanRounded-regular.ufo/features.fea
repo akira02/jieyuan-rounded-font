@@ -1,3 +1,7 @@
+@CombiningTopAccents = [ acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb ];
+
+@CombiningNonTopAccents = [ dotaboverightcomb strokeshortcomb ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
@@ -13,8 +17,8 @@ languagesystem latn CAT;
 languagesystem hebr dflt;
 languagesystem hebr IWR;
 
-@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
-@CombiningNonTopAccents = [dotaboverightcomb strokeshortcomb];
+# Prefix: Prefix
+
 
 feature aalt {
 # automatic
@@ -773,3 +777,4 @@ sub bar.full by bar.full.vert;
 sub equal.full by equal.full.vert;
 sub prolonged-kana by prolonged-kana.vert;
 } vrt2;
+
