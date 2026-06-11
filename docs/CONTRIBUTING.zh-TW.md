@@ -1,6 +1,6 @@
 # 貢獻指南
 
-感謝你一起協助改進 Jieyuan Rounded。
+感謝你一起協助改進 JY Rounded。
 
 這是一個衍生字型專案，因此在貢獻時，除了設計與技術品質，也需要注意授權文字與 source 穩定性。
 
@@ -55,7 +55,7 @@
 
 請不要隨意刪除 copyright 或 license 相關文字。
 
-可以整理 Jieyuan Rounded 自己的 metadata，但以下幾類資訊請特別審慎處理：
+可以整理 JY Rounded 自己的 metadata，但以下幾類資訊請特別審慎處理：
 
 - 法律與授權聲明
 - Reserved Font Name

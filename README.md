@@ -1,8 +1,8 @@
-# 結圓體 Jieyuan Rounded
+# 結圓體 JY Rounded
 
 結圓體是一個從「jf open 粉圓（open-huninn）」衍生出來的字體專案。
 
-Jieyuan Rounded is a derivative font project based on `jf open huninn`.
+JY Rounded is a derivative font project based on `jf open huninn`.
 
 這個 repository 目前主要用來維護可編輯的 UFO source、整理專案 metadata，並讓後續協作與審查更穩定。
 
@@ -41,7 +41,7 @@ The current repository layout is:
 
 結圓體衍生自 `jf open huninn`，而 `jf open huninn` 本身也承接了更早的來源與署名資訊，例如 Kosugi Maru 與 Varela Round。
 
-Jieyuan Rounded is derived from `jf open huninn`, which itself includes material and attribution from earlier upstream sources, including Kosugi Maru and Varela Round.
+JY Rounded is derived from `jf open huninn`, which itself includes material and attribution from earlier upstream sources, including Kosugi Maru and Varela Round.
 
 相關的來源資訊、授權文字與署名紀錄目前保留在 [`LICENSE`](./LICENSE) 與 source metadata 中。若要調整這些內容，請以正確性與必要性為前提。
 

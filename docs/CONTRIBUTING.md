@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve Jieyuan Rounded.
+Thank you for helping improve JY Rounded.
 
 This is a derivative font project, so contributions should balance design improvements, source stability, and licensing care.
 
@@ -55,7 +55,7 @@ If build tooling is available in the future, compiled-font testing should be add
 
 Do not remove copyright or licensing text casually.
 
-It is fine to update project metadata for Jieyuan Rounded, but please be careful with:
+It is fine to update project metadata for JY Rounded, but please be careful with:
 
 - legal notices
 - reserved font names
