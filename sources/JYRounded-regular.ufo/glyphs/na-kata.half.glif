@@ -1,61 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="na-kata.half" format="2">
-  <advance width="512" height="1024"/>
-  <unicode hex="FF85"/>
-  <note>
-cid09034
-</note>
+  <advance width="512" />
+  <unicode hex="FF85" />
   <outline>
     <contour>
-      <point x="128" y="-49" type="curve" smooth="yes"/>
-      <point x="185" y="-49"/>
-      <point x="266" y="70"/>
-      <point x="291" y="198" type="curve" smooth="yes"/>
-      <point x="304" y="261"/>
-      <point x="311" y="346"/>
-      <point x="314" y="452" type="curve"/>
-      <point x="440" y="452" type="line" smooth="yes"/>
-      <point x="473" y="452"/>
-      <point x="489" y="466"/>
-      <point x="489" y="494" type="curve" smooth="yes"/>
-      <point x="489" y="523"/>
-      <point x="473" y="538"/>
-      <point x="440" y="538" type="curve" smooth="yes"/>
-      <point x="315" y="538" type="line"/>
-      <point x="316" y="595" type="line"/>
-      <point x="317" y="731" type="line" smooth="yes"/>
-      <point x="317" y="762"/>
-      <point x="303" y="778"/>
-      <point x="275" y="778" type="curve" smooth="yes"/>
-      <point x="256" y="778"/>
-      <point x="244" y="772"/>
-      <point x="238" y="761" type="curve" smooth="yes"/>
-      <point x="233" y="752"/>
-      <point x="231" y="701"/>
-      <point x="231" y="608" type="curve" smooth="yes"/>
-      <point x="230" y="538" type="line"/>
-      <point x="88" y="538" type="line" smooth="yes"/>
-      <point x="55" y="538"/>
-      <point x="38" y="524"/>
-      <point x="38" y="495" type="curve" smooth="yes"/>
-      <point x="38" y="466"/>
-      <point x="55" y="452"/>
-      <point x="88" y="452" type="curve" smooth="yes"/>
-      <point x="228" y="452" type="line"/>
-      <point x="226" y="257"/>
-      <point x="189" y="124"/>
-      <point x="116" y="53" type="curve" smooth="yes"/>
-      <point x="94" y="32"/>
-      <point x="83" y="14"/>
-      <point x="83" y="0" type="curve" smooth="yes"/>
-      <point x="83" y="-33"/>
-      <point x="98" y="-49"/>
+      <point x="83" y="-49" />
+      <point x="83" y="0" type="qcurve" />
+      <point x="83" y="22" />
+      <point x="116" y="53" type="qcurve" />
+      <point x="225" y="159" />
+      <point x="228" y="452" type="qcurve" />
+      <point x="88" y="452" type="line" />
+      <point x="38" y="452" />
+      <point x="38" y="495" type="qcurve" />
+      <point x="38" y="538" />
+      <point x="88" y="538" type="qcurve" />
+      <point x="230" y="538" type="line" />
+      <point x="231" y="608" type="line" />
+      <point x="231" y="748" />
+      <point x="238" y="761" type="qcurve" />
+      <point x="247" y="778" />
+      <point x="275" y="778" type="qcurve" />
+      <point x="317" y="778" />
+      <point x="317" y="731" type="qcurve" />
+      <point x="316" y="595" type="line" />
+      <point x="315" y="538" type="line" />
+      <point x="440" y="538" type="line" />
+      <point x="489" y="538" />
+      <point x="489" y="494" type="qcurve" />
+      <point x="489" y="452" />
+      <point x="440" y="452" type="qcurve" />
+      <point x="314" y="452" type="line" />
+      <point x="309" y="287" />
+      <point x="291" y="198" type="qcurve" />
+      <point x="279" y="136" />
+      <point x="223" y="21" />
+      <point x="156" y="-49" />
+      <point x="128" y="-49" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

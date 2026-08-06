@@ -1,32 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar.full" format="2">
-  <advance width="1024"/>
-  <unicode hex="FF5C"/>
-  <note>
-uniFF5C
-</note>
+  <advance width="1024" />
+  <unicode hex="FF5C" />
   <outline>
     <contour>
-      <point x="512" y="-98" type="curve" smooth="yes"/>
-      <point x="535" y="-98"/>
-      <point x="547" y="-84"/>
-      <point x="547" y="-56" type="curve" smooth="yes"/>
-      <point x="547" y="773" type="line" smooth="yes"/>
-      <point x="547" y="801"/>
-      <point x="535" y="815"/>
-      <point x="512" y="815" type="curve" smooth="yes"/>
-      <point x="488" y="815"/>
-      <point x="477" y="801"/>
-      <point x="477" y="773" type="curve" smooth="yes"/>
-      <point x="477" y="-56" type="line" smooth="yes"/>
-      <point x="477" y="-84"/>
-      <point x="488" y="-98"/>
+      <point x="477" y="-98" />
+      <point x="477" y="-56" type="qcurve" />
+      <point x="477" y="773" type="line" />
+      <point x="477" y="815" />
+      <point x="512" y="815" type="qcurve" />
+      <point x="547" y="815" />
+      <point x="547" y="773" type="qcurve" />
+      <point x="547" y="-56" type="line" />
+      <point x="547" y="-98" />
+      <point x="512" y="-98" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

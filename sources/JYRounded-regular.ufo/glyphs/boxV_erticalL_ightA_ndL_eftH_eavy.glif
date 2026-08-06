@@ -1,26 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="boxVerticalLightAndLeftHeavy" format="2">
-  <advance width="1024" height="1024"/>
-  <unicode hex="2525"/>
-  <note>
-uni2525
-</note>
+  <advance width="1024" />
+  <unicode hex="2525" />
   <outline>
     <contour>
-      <point x="497" y="-138" type="line"/>
-      <point x="527" y="-138" type="line"/>
-      <point x="527" y="855" type="line"/>
-      <point x="497" y="855" type="line"/>
-      <point x="497" y="419" type="line"/>
-      <point x="15" y="419" type="line"/>
-      <point x="15" y="299" type="line"/>
-      <point x="497" y="299" type="line"/>
+      <point x="497" y="299" type="line" />
+      <point x="15" y="299" type="line" />
+      <point x="15" y="419" type="line" />
+      <point x="497" y="419" type="line" />
+      <point x="497" y="855" type="line" />
+      <point x="527" y="855" type="line" />
+      <point x="527" y="-138" type="line" />
+      <point x="497" y="-138" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

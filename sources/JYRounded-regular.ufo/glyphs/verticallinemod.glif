@@ -1,34 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="verticallinemod" format="2">
-  <advance width="198"/>
-  <unicode hex="02C8"/>
-  <note>
-uni02C8
-</note>
+  <unicode hex="02C8" />
   <outline>
     <contour>
-      <point x="99" y="544" type="curve" smooth="yes"/>
-      <point x="122" y="544"/>
-      <point x="139" y="563"/>
-      <point x="139" y="584" type="curve" smooth="yes"/>
-      <point x="139" y="737" type="line" smooth="yes"/>
-      <point x="139" y="760"/>
-      <point x="122" y="777"/>
-      <point x="99" y="777" type="curve" smooth="yes"/>
-      <point x="78" y="777"/>
-      <point x="59" y="760"/>
-      <point x="59" y="737" type="curve" smooth="yes"/>
-      <point x="59" y="584" type="line" smooth="yes"/>
-      <point x="59" y="563"/>
-      <point x="78" y="544"/>
+      <point x="83" y="544" />
+      <point x="59" y="568" />
+      <point x="59" y="584" type="qcurve" />
+      <point x="59" y="737" type="line" />
+      <point x="59" y="754" />
+      <point x="83" y="777" />
+      <point x="99" y="777" type="qcurve" />
+      <point x="116" y="777" />
+      <point x="139" y="754" />
+      <point x="139" y="737" type="qcurve" />
+      <point x="139" y="584" type="line" />
+      <point x="139" y="568" />
+      <point x="116" y="544" />
+      <point x="99" y="544" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

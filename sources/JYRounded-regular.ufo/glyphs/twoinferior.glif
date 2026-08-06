@@ -1,70 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twoinferior" format="2">
-  <advance width="370"/>
-  <unicode hex="2082"/>
-  <note>
-uni2082
-</note>
+  <advance width="370" />
+  <unicode hex="2082" />
   <outline>
     <contour>
-      <point x="77" y="-1" type="curve" smooth="yes"/>
-      <point x="297" y="-1" type="line" smooth="yes"/>
-      <point x="314" y="-1"/>
-      <point x="328" y="11"/>
-      <point x="328" y="29" type="curve" smooth="yes"/>
-      <point x="328" y="46"/>
-      <point x="314" y="60"/>
-      <point x="297" y="60" type="curve" smooth="yes"/>
-      <point x="109" y="60" type="line"/>
-      <point x="121" y="75"/>
-      <point x="143" y="90"/>
-      <point x="183" y="116" type="curve" smooth="yes"/>
-      <point x="242" y="155"/>
-      <point x="276" y="178"/>
-      <point x="304" y="218" type="curve" smooth="yes"/>
-      <point x="317" y="237"/>
-      <point x="324" y="259"/>
-      <point x="324" y="282" type="curve" smooth="yes"/>
-      <point x="324" y="350"/>
-      <point x="266" y="400"/>
-      <point x="190" y="400" type="curve" smooth="yes"/>
-      <point x="141" y="400"/>
-      <point x="97" y="389"/>
-      <point x="60" y="367" type="curve" smooth="yes"/>
-      <point x="50" y="361"/>
-      <point x="45" y="352"/>
-      <point x="45" y="341" type="curve" smooth="yes"/>
-      <point x="45" y="323"/>
-      <point x="58" y="312"/>
-      <point x="74" y="312" type="curve" smooth="yes"/>
-      <point x="78" y="312"/>
-      <point x="83" y="313"/>
-      <point x="87" y="315" type="curve" smooth="yes"/>
-      <point x="114" y="330"/>
-      <point x="144" y="337"/>
-      <point x="182" y="337" type="curve" smooth="yes"/>
-      <point x="232" y="337"/>
-      <point x="259" y="315"/>
-      <point x="259" y="278" type="curve" smooth="yes"/>
-      <point x="259" y="262"/>
-      <point x="252" y="247"/>
-      <point x="236" y="234" type="curve" smooth="yes"/>
-      <point x="220" y="220"/>
-      <point x="195" y="202"/>
-      <point x="162" y="181" type="curve" smooth="yes"/>
-      <point x="81" y="129"/>
-      <point x="37" y="96"/>
-      <point x="37" y="40" type="curve" smooth="yes"/>
-      <point x="37" y="19"/>
-      <point x="54" y="-1"/>
+      <point x="60" y="-1" />
+      <point x="37" y="24" />
+      <point x="37" y="40" type="qcurve" />
+      <point x="37" y="79" />
+      <point x="93" y="137" />
+      <point x="162" y="181" type="qcurve" />
+      <point x="211" y="212" />
+      <point x="236" y="234" type="qcurve" />
+      <point x="259" y="253" />
+      <point x="259" y="278" type="qcurve" />
+      <point x="259" y="306" />
+      <point x="219" y="337" />
+      <point x="182" y="337" type="qcurve" />
+      <point x="127" y="337" />
+      <point x="87" y="315" type="qcurve" />
+      <point x="81" y="312" />
+      <point x="74" y="312" type="qcurve" />
+      <point x="62" y="312" />
+      <point x="45" y="328" />
+      <point x="45" y="341" type="qcurve" />
+      <point x="45" y="358" />
+      <point x="60" y="367" type="qcurve" />
+      <point x="116" y="400" />
+      <point x="190" y="400" type="qcurve" />
+      <point x="247" y="400" />
+      <point x="324" y="333" />
+      <point x="324" y="282" type="qcurve" />
+      <point x="324" y="247" />
+      <point x="304" y="218" type="qcurve" />
+      <point x="285" y="191" />
+      <point x="235" y="150" />
+      <point x="183" y="116" type="qcurve" />
+      <point x="149" y="94" />
+      <point x="117" y="70" />
+      <point x="109" y="60" type="qcurve" />
+      <point x="297" y="60" type="line" />
+      <point x="310" y="60" />
+      <point x="328" y="42" />
+      <point x="328" y="29" type="qcurve" />
+      <point x="328" y="16" />
+      <point x="310" y="-1" />
+      <point x="297" y="-1" type="qcurve" />
+      <point x="77" y="-1" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

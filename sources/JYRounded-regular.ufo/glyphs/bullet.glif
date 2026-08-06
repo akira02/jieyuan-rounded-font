@@ -1,32 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet" format="2">
-  <advance width="377"/>
-  <unicode hex="2022"/>
-  <note>
-bullet
-</note>
+  <advance width="377" />
+  <unicode hex="2022" />
   <outline>
     <contour>
-      <point x="189" y="259" type="curve" smooth="yes"/>
-      <point x="263" y="259"/>
-      <point x="322" y="320"/>
-      <point x="322" y="393" type="curve" smooth="yes"/>
-      <point x="322" y="466"/>
-      <point x="263" y="527"/>
-      <point x="189" y="527" type="curve" smooth="yes"/>
-      <point x="116" y="527"/>
-      <point x="55" y="466"/>
-      <point x="55" y="393" type="curve" smooth="yes"/>
-      <point x="55" y="320"/>
-      <point x="116" y="259"/>
+      <point x="153" y="259" />
+      <point x="91" y="295" />
+      <point x="55" y="357" />
+      <point x="55" y="393" type="qcurve" />
+      <point x="55" y="429" />
+      <point x="91" y="491" />
+      <point x="153" y="527" />
+      <point x="189" y="527" type="qcurve" />
+      <point x="225" y="527" />
+      <point x="286" y="491" />
+      <point x="322" y="429" />
+      <point x="322" y="393" type="qcurve" />
+      <point x="322" y="357" />
+      <point x="286" y="295" />
+      <point x="225" y="259" />
+      <point x="189" y="259" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

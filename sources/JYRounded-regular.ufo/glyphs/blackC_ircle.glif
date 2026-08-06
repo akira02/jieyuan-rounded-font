@@ -1,30 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="blackCircle" format="2">
-  <advance width="1024" height="1024"/>
-  <unicode hex="25CF"/>
-  <note>
-uni25CF
-</note>
+  <advance width="1024" />
+  <unicode hex="25CF" />
   <outline>
     <contour>
-      <point x="513" y="-72" type="curve" smooth="yes"/>
-      <point x="749" y="-72"/>
-      <point x="944" y="117"/>
-      <point x="944" y="360" type="curve" smooth="yes"/>
-      <point x="944" y="591"/>
-      <point x="752" y="791"/>
-      <point x="520" y="791" type="curve" smooth="yes"/>
-      <point x="276" y="791"/>
-      <point x="81" y="598"/>
-      <point x="81" y="363" type="curve" smooth="yes"/>
-      <point x="81" y="122"/>
-      <point x="270" y="-72"/>
+      <point x="394" y="-72" />
+      <point x="196" y="45" />
+      <point x="81" y="244" />
+      <point x="81" y="363" type="qcurve" />
+      <point x="81" y="479" />
+      <point x="199" y="675" />
+      <point x="400" y="791" />
+      <point x="520" y="791" type="qcurve" />
+      <point x="634" y="791" />
+      <point x="829" y="672" />
+      <point x="944" y="474" />
+      <point x="944" y="360" type="qcurve" />
+      <point x="944" y="241" />
+      <point x="828" y="43" />
+      <point x="630" y="-72" />
+      <point x="513" y="-72" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

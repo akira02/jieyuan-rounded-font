@@ -1,31 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i-bopomofo" format="2">
-  <advance width="1024"/>
-  <unicode hex="3127"/>
+  <advance width="1024" />
+  <unicode hex="3127" />
   <outline>
     <contour>
-      <point x="158" y="311" type="curve" smooth="yes"/>
-      <point x="866" y="311" type="line" smooth="yes"/>
-      <point x="905" y="311"/>
-      <point x="926" y="326"/>
-      <point x="926" y="356" type="curve" smooth="yes"/>
-      <point x="926" y="386"/>
-      <point x="905" y="400"/>
-      <point x="866" y="400" type="curve" smooth="yes"/>
-      <point x="158" y="400" type="line" smooth="yes"/>
-      <point x="118" y="400"/>
-      <point x="97" y="386"/>
-      <point x="97" y="357" type="curve" smooth="yes"/>
-      <point x="97" y="326"/>
-      <point x="118" y="311"/>
+      <point x="97" y="311" />
+      <point x="97" y="357" type="qcurve" />
+      <point x="97" y="400" />
+      <point x="158" y="400" type="qcurve" />
+      <point x="866" y="400" type="line" />
+      <point x="926" y="400" />
+      <point x="926" y="356" type="qcurve" />
+      <point x="926" y="311" />
+      <point x="866" y="311" type="qcurve" />
+      <point x="158" y="311" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:31:59 +0000</string>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

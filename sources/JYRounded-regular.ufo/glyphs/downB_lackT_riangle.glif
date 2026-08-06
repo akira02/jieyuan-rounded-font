@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="downBlackTriangle" format="2">
-  <advance width="1024" height="1024"/>
-  <unicode hex="25BC"/>
-  <note>
-uni25BC
-</note>
+  <advance width="1024" />
+  <unicode hex="25BC" />
   <outline>
     <contour>
-      <point x="512" y="-55" type="line"/>
-      <point x="969" y="739" type="line"/>
-      <point x="55" y="739" type="line"/>
+      <point x="55" y="739" type="line" />
+      <point x="969" y="739" type="line" />
+      <point x="512" y="-55" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

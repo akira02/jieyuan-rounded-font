@@ -1,66 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
-  <advance width="307"/>
-  <unicode hex="00B8"/>
-  <note>
-cedilla
-</note>
-  <anchor x="212" y="17" name="_cedilla"/>
+  <unicode hex="00B8" />
+  <anchor x="212" y="17" name="_cedilla" />
   <outline>
     <contour>
-      <point x="187" y="-222" type="curve" smooth="yes"/>
-      <point x="260" y="-222"/>
-      <point x="299" y="-190"/>
-      <point x="299" y="-129" type="curve" smooth="yes"/>
-      <point x="299" y="-87"/>
-      <point x="266" y="-58"/>
-      <point x="221" y="-58" type="curve" smooth="yes"/>
-      <point x="210" y="-58"/>
-      <point x="199" y="-59"/>
-      <point x="189" y="-61" type="curve"/>
-      <point x="235" y="18" type="line"/>
-      <point x="191" y="18" type="line"/>
-      <point x="126" y="-84" type="line" smooth="yes"/>
-      <point x="123" y="-89"/>
-      <point x="122" y="-94"/>
-      <point x="122" y="-99" type="curve" smooth="yes"/>
-      <point x="122" y="-109"/>
-      <point x="132" y="-116"/>
-      <point x="141" y="-116" type="curve" smooth="yes"/>
-      <point x="144" y="-116"/>
-      <point x="147" y="-115"/>
-      <point x="151" y="-113" type="curve" smooth="yes"/>
-      <point x="166" y="-106"/>
-      <point x="180" y="-102"/>
-      <point x="195" y="-102" type="curve" smooth="yes"/>
-      <point x="217" y="-102"/>
-      <point x="230" y="-114"/>
-      <point x="230" y="-132" type="curve" smooth="yes"/>
-      <point x="230" y="-162"/>
-      <point x="212" y="-177"/>
-      <point x="174" y="-177" type="curve" smooth="yes"/>
-      <point x="155" y="-177"/>
-      <point x="136" y="-171"/>
-      <point x="115" y="-160" type="curve" smooth="yes"/>
-      <point x="111" y="-158"/>
-      <point x="108" y="-157"/>
-      <point x="105" y="-157" type="curve" smooth="yes"/>
-      <point x="93" y="-157"/>
-      <point x="85" y="-166"/>
-      <point x="85" y="-178" type="curve" smooth="yes"/>
-      <point x="85" y="-184"/>
-      <point x="88" y="-189"/>
-      <point x="96" y="-196" type="curve"/>
-      <point x="125" y="-213"/>
-      <point x="155" y="-222"/>
+      <point x="140" y="-222" />
+      <point x="96" y="-196" type="qcurve" />
+      <point x="85" y="-186" />
+      <point x="85" y="-178" type="qcurve" />
+      <point x="85" y="-169" />
+      <point x="96" y="-157" />
+      <point x="105" y="-157" type="qcurve" />
+      <point x="109" y="-157" />
+      <point x="115" y="-160" type="qcurve" />
+      <point x="147" y="-177" />
+      <point x="174" y="-177" type="qcurve" />
+      <point x="230" y="-177" />
+      <point x="230" y="-132" type="qcurve" />
+      <point x="230" y="-118" />
+      <point x="211" y="-102" />
+      <point x="195" y="-102" type="qcurve" />
+      <point x="175" y="-102" />
+      <point x="151" y="-113" type="qcurve" />
+      <point x="145" y="-116" />
+      <point x="141" y="-116" type="qcurve" />
+      <point x="134" y="-116" />
+      <point x="122" y="-106" />
+      <point x="122" y="-99" type="qcurve" />
+      <point x="122" y="-91" />
+      <point x="126" y="-84" type="qcurve" />
+      <point x="191" y="18" type="line" />
+      <point x="235" y="18" type="line" />
+      <point x="189" y="-61" type="line" />
+      <point x="204" y="-58" />
+      <point x="221" y="-58" type="qcurve" />
+      <point x="255" y="-58" />
+      <point x="299" y="-98" />
+      <point x="299" y="-129" type="qcurve" />
+      <point x="299" y="-175" />
+      <point x="242" y="-222" />
+      <point x="187" y="-222" type="qcurve" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

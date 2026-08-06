@@ -1,36 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-  <advance width="260"/>
-  <unicode hex="00B7"/>
-  <note>
-periodcentered
-</note>
+  <advance width="260" />
+  <unicode hex="00B7" />
   <outline>
     <contour>
-      <point x="124" y="291" type="curve" smooth="yes"/>
-      <point x="136" y="291" type="line" smooth="yes"/>
-      <point x="174" y="291"/>
-      <point x="206" y="323"/>
-      <point x="206" y="361" type="curve" smooth="yes"/>
-      <point x="206" y="369" type="line" smooth="yes"/>
-      <point x="206" y="407"/>
-      <point x="174" y="439"/>
-      <point x="136" y="439" type="curve" smooth="yes"/>
-      <point x="124" y="439" type="line" smooth="yes"/>
-      <point x="86" y="439"/>
-      <point x="54" y="407"/>
-      <point x="54" y="369" type="curve" smooth="yes"/>
-      <point x="54" y="361" type="line" smooth="yes"/>
-      <point x="54" y="323"/>
-      <point x="86" y="291"/>
+      <point x="96" y="291" />
+      <point x="54" y="333" />
+      <point x="54" y="361" type="qcurve" />
+      <point x="54" y="369" type="line" />
+      <point x="54" y="398" />
+      <point x="96" y="439" />
+      <point x="124" y="439" type="qcurve" />
+      <point x="136" y="439" type="line" />
+      <point x="165" y="439" />
+      <point x="206" y="398" />
+      <point x="206" y="369" type="qcurve" />
+      <point x="206" y="361" type="line" />
+      <point x="206" y="333" />
+      <point x="165" y="291" />
+      <point x="136" y="291" type="qcurve" />
+      <point x="124" y="291" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

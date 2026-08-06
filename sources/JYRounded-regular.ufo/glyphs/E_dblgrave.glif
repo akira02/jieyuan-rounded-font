@@ -1,20 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edblgrave" format="2">
-  <advance width="638"/>
-  <unicode hex="0204"/>
-  <note>
-uni0204
-</note>
+  <advance width="638" />
+  <unicode hex="0204" />
   <outline>
-    <component base="E"/>
-    <component base="dblgravecomb.case" xOffset="451" yOffset="2"/>
+    <contour>
+      <point x="123" y="-1" />
+      <point x="96" y="26" />
+      <point x="96" y="45" type="qcurve" />
+      <point x="96" y="652" type="line" />
+      <point x="96" y="671" />
+      <point x="123" y="699" />
+      <point x="142" y="699" type="qcurve" />
+      <point x="543" y="699" type="line" />
+      <point x="561" y="699" />
+      <point x="587" y="673" />
+      <point x="587" y="655" type="qcurve" />
+      <point x="587" y="637" />
+      <point x="561" y="612" />
+      <point x="543" y="612" type="qcurve" />
+      <point x="201" y="612" type="line" />
+      <point x="189" y="612" />
+      <point x="189" y="600" type="qcurve" />
+      <point x="189" y="393" type="line" />
+      <point x="507" y="393" type="line" />
+      <point x="525" y="393" />
+      <point x="551" y="367" />
+      <point x="551" y="349" type="qcurve" />
+      <point x="551" y="331" />
+      <point x="525" y="306" />
+      <point x="507" y="306" type="qcurve" />
+      <point x="189" y="306" type="line" />
+      <point x="189" y="98" type="line" />
+      <point x="189" y="86" />
+      <point x="201" y="86" type="qcurve" />
+      <point x="543" y="86" type="line" />
+      <point x="561" y="86" />
+      <point x="587" y="60" />
+      <point x="587" y="42" type="qcurve" />
+      <point x="587" y="24" />
+      <point x="561" y="-1" />
+      <point x="543" y="-1" type="qcurve" />
+      <point x="142" y="-1" type="line" />
+    </contour>
+    <contour>
+      <point x="234" y="740" />
+      <point x="225" y="751" type="qcurve" />
+      <point x="156" y="833" type="line" />
+      <point x="146" y="846" />
+      <point x="146" y="859" type="qcurve" />
+      <point x="146" y="873" />
+      <point x="167" y="891" />
+      <point x="182" y="891" type="qcurve" />
+      <point x="206" y="891" />
+      <point x="219" y="870" type="qcurve" />
+      <point x="269" y="788" type="line" />
+      <point x="276" y="776" />
+      <point x="276" y="768" type="qcurve" />
+      <point x="276" y="755" />
+      <point x="260" y="740" />
+      <point x="248" y="740" type="qcurve" />
+    </contour>
+    <contour>
+      <point x="388" y="740" />
+      <point x="379" y="751" type="qcurve" />
+      <point x="310" y="833" type="line" />
+      <point x="300" y="846" />
+      <point x="300" y="859" type="qcurve" />
+      <point x="300" y="874" />
+      <point x="321" y="893" />
+      <point x="337" y="893" type="qcurve" />
+      <point x="359" y="893" />
+      <point x="372" y="871" type="qcurve" />
+      <point x="423" y="788" type="line" />
+      <point x="430" y="776" />
+      <point x="430" y="768" type="qcurve" />
+      <point x="430" y="755" />
+      <point x="414" y="740" />
+      <point x="402" y="740" type="qcurve" />
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-12 11:54:26 +0000</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

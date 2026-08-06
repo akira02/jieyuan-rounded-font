@@ -1,66 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j.full" format="2">
-  <advance width="1024"/>
-  <unicode hex="FF4A"/>
-  <note>
-uniFF4A
-</note>
+  <advance width="1024" />
+  <unicode hex="FF4A" />
   <outline>
     <contour>
-      <point x="451" y="-241" type="curve" smooth="yes"/>
-      <point x="538" y="-241"/>
-      <point x="583" y="-192"/>
-      <point x="583" y="-103" type="curve" smooth="yes"/>
-      <point x="583" y="468" type="line" smooth="yes"/>
-      <point x="583" y="495"/>
-      <point x="563" y="515"/>
-      <point x="536" y="515" type="curve" smooth="yes"/>
-      <point x="511" y="515"/>
-      <point x="490" y="493"/>
-      <point x="490" y="468" type="curve" smooth="yes"/>
-      <point x="490" y="-101" type="line" smooth="yes"/>
-      <point x="490" y="-146"/>
-      <point x="474" y="-159"/>
-      <point x="430" y="-159" type="curve" smooth="yes"/>
-      <point x="424" y="-159"/>
-      <point x="419" y="-159"/>
-      <point x="415" y="-158" type="curve" smooth="yes"/>
-      <point x="412" y="-158" type="line"/>
-      <point x="400" y="-156" type="line"/>
-      <point x="379" y="-156"/>
-      <point x="361" y="-175"/>
-      <point x="361" y="-195" type="curve" smooth="yes"/>
-      <point x="361" y="-212"/>
-      <point x="371" y="-227"/>
-      <point x="388" y="-232" type="curve" smooth="yes"/>
-      <point x="406" y="-238"/>
-      <point x="427" y="-241"/>
+      <point x="415" y="-241" />
+      <point x="388" y="-232" type="qcurve" />
+      <point x="375" y="-228" />
+      <point x="361" y="-208" />
+      <point x="361" y="-195" type="qcurve" />
+      <point x="361" y="-180" />
+      <point x="384" y="-156" />
+      <point x="400" y="-156" type="qcurve" />
+      <point x="412" y="-158" type="line" />
+      <point x="415" y="-158" type="line" />
+      <point x="419" y="-159" />
+      <point x="430" y="-159" type="qcurve" />
+      <point x="464" y="-159" />
+      <point x="490" y="-134" />
+      <point x="490" y="-101" type="qcurve" />
+      <point x="490" y="468" type="line" />
+      <point x="490" y="487" />
+      <point x="517" y="515" />
+      <point x="536" y="515" type="qcurve" />
+      <point x="556" y="515" />
+      <point x="583" y="488" />
+      <point x="583" y="468" type="qcurve" />
+      <point x="583" y="-103" type="line" />
+      <point x="583" y="-170" />
+      <point x="516" y="-241" />
+      <point x="451" y="-241" type="qcurve" />
     </contour>
     <contour>
-      <point x="534" y="613" type="curve" smooth="yes"/>
-      <point x="540" y="613" type="line" smooth="yes"/>
-      <point x="568" y="613"/>
-      <point x="592" y="637"/>
-      <point x="592" y="665" type="curve" smooth="yes"/>
-      <point x="592" y="669" type="line" smooth="yes"/>
-      <point x="592" y="697"/>
-      <point x="568" y="721"/>
-      <point x="540" y="721" type="curve" smooth="yes"/>
-      <point x="534" y="721" type="line" smooth="yes"/>
-      <point x="506" y="721"/>
-      <point x="482" y="697"/>
-      <point x="482" y="669" type="curve" smooth="yes"/>
-      <point x="482" y="665" type="line" smooth="yes"/>
-      <point x="482" y="637"/>
-      <point x="506" y="613"/>
+      <point x="513" y="613" />
+      <point x="482" y="644" />
+      <point x="482" y="665" type="qcurve" />
+      <point x="482" y="669" type="line" />
+      <point x="482" y="690" />
+      <point x="513" y="721" />
+      <point x="534" y="721" type="qcurve" />
+      <point x="540" y="721" type="line" />
+      <point x="561" y="721" />
+      <point x="592" y="690" />
+      <point x="592" y="669" type="qcurve" />
+      <point x="592" y="665" type="line" />
+      <point x="592" y="644" />
+      <point x="561" y="613" />
+      <point x="540" y="613" type="qcurve" />
+      <point x="534" y="613" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-12 10:56:39 +0000</string>
-      <key>public.markColor</key>
-      <string>0.06,0.6,0.98,1</string>
-    </dict>
-  </lib>
 </glyph>

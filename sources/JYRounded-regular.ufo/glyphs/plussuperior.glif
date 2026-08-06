@@ -1,14 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plussuperior" format="2">
-  <advance width="562"/>
-  <unicode hex="207A"/>
+  <advance width="562" />
+  <unicode hex="207A" />
   <outline>
-    <component base="plus" yOffset="260"/>
+    <contour>
+      <point x="265" y="363" />
+      <point x="241" y="387" />
+      <point x="241" y="403" type="qcurve" />
+      <point x="241" y="566" type="line" />
+      <point x="78" y="566" type="line" />
+      <point x="62" y="566" />
+      <point x="39" y="589" />
+      <point x="39" y="605" type="qcurve" />
+      <point x="39" y="622" />
+      <point x="62" y="645" />
+      <point x="78" y="645" type="qcurve" />
+      <point x="241" y="645" type="line" />
+      <point x="241" y="808" type="line" />
+      <point x="241" y="825" />
+      <point x="265" y="848" />
+      <point x="281" y="848" type="qcurve" />
+      <point x="298" y="848" />
+      <point x="321" y="825" />
+      <point x="321" y="808" type="qcurve" />
+      <point x="321" y="645" type="line" />
+      <point x="483" y="645" type="line" />
+      <point x="500" y="645" />
+      <point x="523" y="622" />
+      <point x="523" y="605" type="qcurve" />
+      <point x="523" y="589" />
+      <point x="500" y="566" />
+      <point x="483" y="566" type="qcurve" />
+      <point x="321" y="566" type="line" />
+      <point x="321" y="403" type="line" />
+      <point x="321" y="387" />
+      <point x="298" y="363" />
+      <point x="281" y="363" type="qcurve" />
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:11:50 +0000</string>
-    </dict>
-  </lib>
 </glyph>

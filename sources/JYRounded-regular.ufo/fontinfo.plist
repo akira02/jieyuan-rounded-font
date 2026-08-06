@@ -14,7 +14,15 @@ Copyright (c) 2010 MOTOYA CO.,LTD.
 Copyright (x) 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.            
 
 [jf open huninn]
-Copyright (c) 2020-2023 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).</string>
+Copyright (c) 2020-2024 The jf open huninn font is redistributed by justfont Co., Ltd., with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+
+[MaoKen TangYuan]
+Copyright (c) 2020 Maoken, NFSL2001. The MaoKen TangYuan font is redistributed by maoken.com, with Reserved Font Names 'TangYuan', 'Tang Yuan' and '糖圆' under SIL Open Font License.
+
+[JY Rounded]
+Copyright (c) 2026 The JY Rounded Project Authors (https://github.com/chiakic/JYRounded), with Reserved Font Name 'JY Rounded'.</string>
+    <key>openTypeNameDescription</key>
+    <string>A Traditional Chinese rounded typeface derived from jf open huninn.</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
@@ -84,11 +92,143 @@ Designed by MOTOYA
 Joe Prince (Latin component); Avraham Cornfeld (Hebrew component)     
 
 [jf open huninn]
-Chiaki.C, Bold, GoRong, Rose, Yunshan, ChingRu (Chinese Characters); GoRong (Diacritics); Chiaki.C, Bold (Bopomofo); Michael, ChingRu (Programming);</string>
+Chiaki.C, Bold, GoRong, Rose, Yunshan, ChingRu (Chinese Characters); GoRong (Diacritics); Chiaki.C, Bold (Bopomofo); Michael, ChingRu (Font Engineering);
+
+[JY Rounded]
+Chiaki.C</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/chiakic</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://spdx.org/licenses/OFL-1.1.html</string>
     <key>openTypeNameManufacturer</key>
     <string>JY Rounded Project</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>https://github.com/akira02/JY-Rounded</string>
+    <string>https://github.com/chiakic/JYRounded</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>JY Rounded</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Regular</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>4</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>JY Rounded Regular</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>16</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>JY Rounded</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>17</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Regular</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>結圓體</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>標準</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>4</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>結圓體 標準</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>16</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>結圓體</string>
+      </dict>
+      <dict>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>17</integer>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>標準</string>
+      </dict>
+    </array>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -146,9 +286,9 @@ Chiaki.C, Bold, GoRong, Rose, Yunshan, ChingRu (Chinese Characters); GoRong (Dia
     <key>openTypeOS2WinDescent</key>
     <integer>300</integer>
     <key>postscriptFontName</key>
-    <string>jy-rounded-regular</string>
+    <string>JYRounded-Regular</string>
     <key>postscriptFullName</key>
-    <string>JY Rounded</string>
+    <string>JY Rounded Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

@@ -1,21 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni02CD" format="2">
-  <advance width="512"/>
-  <unicode hex="02CD"/>
+  <advance width="512" />
+  <unicode hex="02CD" />
   <outline>
     <contour>
-      <point x="15" y="-278" type="line"/>
-      <point x="497" y="-278" type="line"/>
-      <point x="497" y="-208" type="line"/>
-      <point x="15" y="-208" type="line"/>
+      <point x="15" y="-208" type="line" />
+      <point x="497" y="-208" type="line" />
+      <point x="497" y="-278" type="line" />
+      <point x="15" y="-278" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

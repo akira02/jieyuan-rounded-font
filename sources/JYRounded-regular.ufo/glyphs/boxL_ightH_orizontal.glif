@@ -1,22 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="boxLightHorizontal" format="2">
-  <advance width="1024" height="1024"/>
-  <unicode hex="2500"/>
-  <note>
-uni2500
-</note>
+  <advance width="1024" />
+  <unicode hex="2500" />
   <outline>
     <contour>
-      <point x="15" y="343" type="line"/>
-      <point x="1008" y="343" type="line"/>
-      <point x="1008" y="373" type="line"/>
-      <point x="15" y="373" type="line"/>
+      <point x="0" y="374" type="line" />
+      <point x="1024" y="374" type="line" />
+      <point x="1024" y="344" type="line" />
+      <point x="0" y="344" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

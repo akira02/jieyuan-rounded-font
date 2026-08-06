@@ -1,28 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="blackstar" format="2">
-  <advance width="1024" height="1024"/>
-  <unicode hex="2605"/>
-  <note>
-uni2605
-</note>
+  <advance width="1024" />
+  <unicode hex="2605" />
   <outline>
     <contour>
-      <point x="199" y="-97" type="line"/>
-      <point x="512" y="135" type="line"/>
-      <point x="824" y="-97" type="line"/>
-      <point x="696" y="271" type="line"/>
-      <point x="969" y="475" type="line"/>
-      <point x="627" y="475" type="line"/>
-      <point x="512" y="816" type="line"/>
-      <point x="396" y="475" type="line"/>
-      <point x="55" y="475" type="line"/>
-      <point x="327" y="271" type="line"/>
+      <point x="327" y="271" type="line" />
+      <point x="55" y="475" type="line" />
+      <point x="396" y="475" type="line" />
+      <point x="512" y="816" type="line" />
+      <point x="627" y="475" type="line" />
+      <point x="969" y="475" type="line" />
+      <point x="696" y="271" type="line" />
+      <point x="824" y="-97" type="line" />
+      <point x="512" y="135" type="line" />
+      <point x="199" y="-97" type="line" />
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-09 05:32:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>
