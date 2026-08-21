@@ -2,9 +2,9 @@
 <glyph name="acircumflexhookabove" format="2">
   <advance width="562" />
   <unicode hex="1EA9" />
-  <anchor x="279" y="0" name="bottom" />
-  <anchor x="551" y="535" name="odot" />
-  <anchor x="442" y="20" name="ogonek" />
+  <anchor x="279" y="0" name="bottom" identifier="a0" />
+  <anchor x="551" y="535" name="odot" identifier="a1" />
+  <anchor x="442" y="20" name="ogonek" identifier="a2" />
   <outline>
     <contour>
       <point x="166" y="-11" />

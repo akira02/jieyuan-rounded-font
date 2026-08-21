@@ -2,8 +2,8 @@
 <glyph name="oo-poj_macroncomb" format="2">
   <advance width="608"/>
   <outline>
-    <component base="oo-poj"/>
-    <component base="macroncomb" xOffset="584" yOffset="17"/>
+    <component base="oo-poj" identifier="c0" xScale="1" yScale="1" xOffset="0" yOffset="0"/>
+    <component base="macroncomb" identifier="c1" xScale="1" yScale="1" xOffset="584" yOffset="17"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,8 @@
 <glyph name="centigrade" format="2">
   <advance width="1024" />
   <unicode hex="2103" />
-  <anchor x="655" y="-7" name="cedilla" />
-  <anchor x="654" y="708" name="top" />
+  <anchor x="655" y="-7" name="cedilla" identifier="a0" />
+  <anchor x="654" y="708" name="top" identifier="a1" />
   <outline>
     <contour>
       <point x="555" y="-11" />

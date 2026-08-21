@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
+  <advance width="0" />
   <unicode hex="0308" />
-  <anchor x="-220" y="567" name="_top" />
-  <anchor x="-220" y="731" name="top" />
+  <anchor x="-220" y="567" name="_top" identifier="a0" />
+  <anchor x="-220" y="731" name="top" identifier="a1" />
   <outline>
     <contour>
       <point x="-157" y="616" />

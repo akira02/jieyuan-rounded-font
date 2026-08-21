@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
+  <advance width="0" />
   <unicode hex="02DA" />
-  <anchor x="200" y="501" name="_top" />
-  <anchor x="284" y="689" name="top" />
+  <anchor x="200" y="501" name="_top" identifier="a0" />
+  <anchor x="284" y="689" name="top" identifier="a1" />
   <outline>
     <contour>
       <point x="161" y="550" />

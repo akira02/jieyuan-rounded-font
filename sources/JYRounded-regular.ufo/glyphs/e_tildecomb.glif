@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e_tildecomb" format="2">
   <advance width="566"/>
-  <anchor x="285" y="0" name="cedilla"/>
-  <anchor x="551" y="532" name="odot"/>
-  <anchor x="389" y="11" name="ogonek"/>
-  <anchor x="287" y="520" name="top"/>
+  <anchor x="285" y="0" name="cedilla" identifier="a0"/>
+  <anchor x="551" y="532" name="odot" identifier="a1"/>
+  <anchor x="389" y="11" name="ogonek" identifier="a2"/>
+  <anchor x="287" y="520" name="top" identifier="a3"/>
   <outline>
     <contour>
       <point x="307" y="-11" type="curve" smooth="yes"/>

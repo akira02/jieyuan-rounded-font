@@ -2,8 +2,8 @@
 <glyph name="oo-poj_caroncomb" format="2">
   <advance width="608"/>
   <outline>
-    <component base="oo-poj"/>
-    <component base="caroncomb" xOffset="584" yOffset="3"/>
+    <component base="oo-poj" identifier="c0" xScale="1" yScale="1" xOffset="0" yOffset="0"/>
+    <component base="caroncomb" identifier="c1" xScale="1" yScale="1" xOffset="584" yOffset="3"/>
   </outline>
   <lib>
     <dict>

@@ -2,9 +2,9 @@
 <glyph name="ubar" format="2">
   <advance width="629" />
   <unicode hex="0289" />
-  <anchor x="318" y="0" name="bottom" />
-  <anchor x="591" y="565" name="odot" />
-  <anchor x="312" y="500" name="top" />
+  <anchor x="318" y="0" name="bottom" identifier="a0" />
+  <anchor x="591" y="565" name="odot" identifier="a1" />
+  <anchor x="312" y="500" name="top" identifier="a2" />
   <outline>
     <contour>
       <point x="209" y="-11" />

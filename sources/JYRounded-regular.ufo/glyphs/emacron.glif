@@ -2,8 +2,8 @@
 <glyph name="emacron" format="2">
   <advance width="566" />
   <unicode hex="0113" />
-  <anchor x="285" y="0" name="cedilla" />
-  <anchor x="551" y="535" name="odot" />
+  <anchor x="285" y="0" name="cedilla" identifier="a0" />
+  <anchor x="551" y="535" name="odot" identifier="a1" />
   <outline>
     <contour>
       <point x="184" y="-11" />

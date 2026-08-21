@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U_verticallineabovecomb" format="2">
   <advance width="758"/>
-  <anchor x="379" y="-10" name="bottom"/>
-  <anchor x="741" y="758" name="odot"/>
-  <anchor x="379" y="693" name="top"/>
+  <anchor x="379" y="-10" name="bottom" identifier="a0"/>
+  <anchor x="741" y="758" name="odot" identifier="a1"/>
+  <anchor x="379" y="693" name="top" identifier="a2"/>
   <outline>
     <contour>
       <point x="379" y="-11" type="curve" smooth="yes"/>

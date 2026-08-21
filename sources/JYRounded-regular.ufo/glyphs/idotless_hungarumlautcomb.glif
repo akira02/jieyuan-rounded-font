@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless_hungarumlautcomb" format="2">
   <advance width="249"/>
-  <anchor x="261" y="475" name="odot"/>
-  <anchor x="124" y="515" name="top"/>
+  <anchor x="261" y="475" name="odot" identifier="a0"/>
+  <anchor x="124" y="515" name="top" identifier="a1"/>
   <outline>
     <contour>
       <point x="124" y="-6" type="curve" smooth="yes"/>

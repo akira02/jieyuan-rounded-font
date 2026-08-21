@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a_verticallineabovecomb" format="2">
   <advance width="562"/>
-  <anchor x="279" y="0" name="bottom"/>
-  <anchor x="551" y="535" name="odot"/>
-  <anchor x="442" y="20" name="ogonek"/>
-  <anchor x="279" y="754" name="top"/>
+  <anchor x="279" y="0" name="bottom" identifier="a0"/>
+  <anchor x="551" y="535" name="odot" identifier="a1"/>
+  <anchor x="442" y="20" name="ogonek" identifier="a2"/>
+  <anchor x="279" y="754" name="top" identifier="a3"/>
   <outline>
     <contour>
       <point x="209" y="-11" type="curve" smooth="yes"/>
